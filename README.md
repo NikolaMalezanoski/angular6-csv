@@ -1,6 +1,6 @@
-# Angular2-csv | Export to CSV  in Angular2
+# Angular6-csv | Export to CSV  in Angular 6
 
-> Helper library for create CSV file in Angular2
+> Helper library for creating CSV files in Angular 6
 > 
 
 ## Installation
